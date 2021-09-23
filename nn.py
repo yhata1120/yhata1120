@@ -1,5 +1,7 @@
 #!/usr/bin/env python
-# 試しに変更してみました
+# 試しにここを変更していました
+# 試しに変えてみました
+# hello git!
 import os
 import pickle
 import numpy as np
