@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# 試しに変更してみました
 import os
 import pickle
 import numpy as np
